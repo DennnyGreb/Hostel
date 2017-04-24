@@ -1,0 +1,19 @@
+{
+  "name": "nodehostellapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennnyGreb/Hostel.git"
+  },
+  "author": "DennnyGreb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DennnyGreb/Hostel/issues"
+  },
+  "homepage": "https://github.com/DennnyGreb/Hostel#readme"
+}
